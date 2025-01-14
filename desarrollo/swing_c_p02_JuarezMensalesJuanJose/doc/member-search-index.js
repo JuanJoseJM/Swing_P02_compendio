@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"practica02","c":"Main","l":"Main()","u":"%3Cinit%3E()"},{"p":"practica02","c":"Main","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"practica02","c":"VentanaDialogo","l":"VentanaDialogo(JFrame)","u":"%3Cinit%3E(javax.swing.JFrame)"},{"p":"practica02","c":"VentanaPrincipal","l":"VentanaPrincipal()","u":"%3Cinit%3E()"}];updateSearchResults();
